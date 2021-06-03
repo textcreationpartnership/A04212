@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and plainer opening of certain points, with a sound confirmation of some other, contained in a treatise intituled, The divine beginning and institution of Christes true visible and ministeriall church. Written in a letter by the author of the said treatise, out of the Low Countryes, to a friend of his in England</title>
+            <author>Jacob, Henry, 1563-1624.</author>
+         </titleStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04212</idno><idno type="EEBO-CITATION">99838598</idno>
+  <idno type="VID">2982</idno>
+  <idno type="EEBO-PROQUEST">2248548840</idno>
+  <idno type="STC">STC 14332</idno>
+  <idno type="STC">ESTC S102836</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838598e"/>
+            <note>(EEBO-TCP ; phase 2, no. A04212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 2982)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1145:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and plainer opening of certain points, with a sound confirmation of some other, contained in a treatise intituled, The divine beginning and institution of Christes true visible and ministeriall church. Written in a letter by the author of the said treatise, out of the Low Countryes, to a friend of his in England</title>
+                  <author>Jacob, Henry, 1563-1624.</author>
+               </titleStmt>
+               <extent>45, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Richard Schilders],</publisher>
+                  <pubPlace>[Middelburg] :</pubPlace>
+                  <date>Anno Dom. 1612.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The author of the said treatise = Henry Jacob.</note>
+                  <note>Place of publication and printer from STC.</note>
+                  <note>Identified as STC 14331 on UMI microfilm reel 1549.</note>
+                  <note>Bodleian Library copy imperfect; title page lacking.</note>
+                  <note>Reproductions of the originals in the Yale University. Library and the Bodleian Library.</note>
+                  <note>Appears at reel 1145 #4 (Yale University. Library copy), and at reel 1549 #4 (Bodleian Library copy, identified as STC 14331).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jacob, Henry, 1563-1624. --  Divine beginning and institution of Christs church --  Early works to 1800.</term>
+               <term type="corporate_name">Congregational churches --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:2982:1"/>
+            <pb facs="tcp:2982:1"/>
+            <p>A DECLARATION AND PLAINER OPENING OF CERTAIN POINTS, WITH A SOVND CONFIRMATION OF SOME OTHER, CONTAINED IN A TREATISE INTITVLED, <hi>THE DIVINE BEGINNING and institution of Christes true visible and ministeriall Church.</hi>
+            </p>
+            <p>Written in a Letter by the Author of the said Treatise, out of the Low Coun<g ref="char:EOLhyphen"/>tryes, to a friend of his in England.</p>
+            <p>PRINTED ANNO DOM. 1612.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:2982:2"/>
+            <pb facs="tcp:2982:2"/>
+            <head>A Declaration &amp; plai<g ref="char:EOLhyphen"/>ner opening of certaine pointes, with a sound Confirmation of some other, contained in a trea<g ref="char:EOLhyphen"/>tise intituled, <hi>The Divine beginning and institu<g ref="char:EOLhyphen"/>tion of Christes true visible and Ministeriall Church.</hi>
+            </head>
+            <head type="sub">Written in a letter by the Author of the said Treatise out of the low Countreys to a friend of his in England.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Letter is as followeth.</head>
+                  <p>
+                     <hi>MY deare and loving friend, as by your selfe, so by sundry other meanes besides J have ben certi<g ref="char:EOLhyphen"/>fied, that divers pointes &amp; pas<g ref="char:EOLhyphen"/>sages of my late Treatise intituled,</hi> The Divine beginning and institution of Christes true Visible and Ministeriall Church, <hi>are doubtfully taken, that is, som of them are not well conceaved, som misli<g ref="char:EOLhyphen"/>ked, by divers godly, wise, &amp; well affected in England. Which thing verily could not
+<pb n="4" facs="tcp:2982:3"/>but be exceeding grievous vnto me, so soone as it came vnto my bearing. And it mooved me foorth-with seriously to bethinke my selfe how J might best doe, both to remoove the offence taken, and to cleare the truth contained in that Treatise from all preiu<g ref="char:EOLhyphen"/>dice and misconceit against it. For it being the duty of all modest and sincere hearted Christians, when any offence ariseth, to la<g ref="char:EOLhyphen"/>bour that no persons who soever should bee let alone in scandall, and neglected, if there may be remedy; how much rather ought I in conscience to reach out my hand to the godly and religious servantes of Christ, stumbling at something (as they thinke) by my selfe laid in the way, that they may bee holpen and held vp from falling, which of<g ref="char:EOLhyphen"/>ten happeneth to many vpon too light occa<g ref="char:EOLhyphen"/>sions. Although therefore it bee little ma<g ref="char:EOLhyphen"/>teriall what I write or speake, what I hold, or doe not holde: yet because even on so light an occasion as now is takē, sometimes there may come sundry accidents which I would bee sory for, if they should come by my fault: for this cause J iudged it fit to imploy my second thoughtes vpon this busi<g ref="char:EOLhyphen"/>nes againe, for the clearing and plainer o<g ref="char:EOLhyphen"/>pening and also for the sound confirming of divers things in my said Treatise, which
+<pb n="5" facs="tcp:2982:3"/>as J heare have bene even by good men ex<g ref="char:EOLhyphen"/>cepted against. Being desirous heerein to make manifest to all the world my great affection which I beare to give content to every honest and well disposed person, so farre as possibly I may or can with safetie vnto the truth; which of all things in this earth is, and ought to be vnto all men the most precious. What points therefore of exception have come to my notice, and are in any sort materiall, I have remembred heere in this letter vnto you, and to each of them severally have adioyned an answere so plaine and so direct, and where need is, so firme, as I can make. Wherein my de<g ref="char:EOLhyphen"/>sire is (and I hope I shall not faile) to satis<g ref="char:EOLhyphen"/>fie every indifferent and equally minded Christian, especially who knoweth the cor<g ref="char:EOLhyphen"/>ruptions that are among vs, &amp; who loveth the simplicitie of the truth, &amp; not cōtētion.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>FIRST therefore, whereas some have an imagination that I am one of the <milestone type="tcpmilestone" unit="unspecified" n="1"/> Separation, &amp; am separated from all com<g ref="char:EOLhyphen"/>munion with the publike Congregations of England. To them my answere is, that touching this point they erre in their i<g ref="char:EOLhyphen"/>magination. Although I know the Se<g ref="char:EOLhyphen"/>paration to be very farre off from being so evil as commonly they are held to be,
+<pb n="6" facs="tcp:2982:4"/>yet I deny not but that in some matters they are straicter then I wish they were. Howsoever, as to the point of Separati<g ref="char:EOLhyphen"/>on, for my part I never was, nor am se<g ref="char:EOLhyphen"/>parated from all publike cōmunion with the Cōgregations of England. I acknow<g ref="char:EOLhyphen"/>ledge therefore that in England are true Visible Churches and Ministers (though accidentally, yet) such as I refuse not to communicate with. And so much for an<g ref="char:EOLhyphen"/>swer to this point shall suffice.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, in the Treatise a doubt is made by some, what the meaning and in<g ref="char:EOLhyphen"/>tent is of the maine Proposition it selfe. The wordes whereof are these, to wit,<note n="“" place="margin">Treat. pag. 1.</note>
+               <hi>Christ is the only author, institutor, and fra<g ref="char:EOLhyphen"/>mer of his Visible and Ministeriall Church touch<g ref="char:EOLhyphen"/>ing the Nature and Forme thereof.</hi> My answer heerevnto standeth on 4. pointes.
+<list>
+                  <item>First, <milestone type="tcpmilestone" unit="unspecified" n="1"/> that the Proposition it selfe in the gene<g ref="char:EOLhyphen"/>ralitie of it (as the words ly) is true both of the Iewes Visible Church vnder the Lawe, and also of the Christian Church vnder the Gospell.</item>
+                  <item>Secondly, yet never<g ref="char:EOLhyphen"/>theles <milestone type="tcpmilestone" unit="unspecified" n="2"/> the proper meaning and intent of this proposition (as I apply it) is to signi<g ref="char:EOLhyphen"/>fie no more but Christes Visible Church vnder the Gospell, and that indefinitlie and generallie: I meane that Christ is, &amp; ought to be belleved to be the only Insti<g ref="char:EOLhyphen"/>tutor of his true Visible Churches Na<g ref="char:EOLhyphen"/>ture and Forme vnder the Gospell, whe<g ref="char:EOLhyphen"/>ther it be of this or of that, or whatsoever
+<pb n="7" facs="tcp:2982:4"/>particular forme it be of; &amp; that it ought to be belleved to be of some certain par<g ref="char:EOLhyphen"/>ticular forme. The wordes them selves of the Proposition do import the large<g ref="char:EOLhyphen"/>nes of this sense; reason also requireth such generalitie in every Proposition where the wordes and circumstances wil permit it, and the 31. Arguments (annex<g ref="char:EOLhyphen"/>ed for proofes) do serve therevnto direct<g ref="char:EOLhyphen"/>lie.</item>
+                  <item>Thirdly, in speciall sort in the third <milestone type="tcpmilestone" unit="unspecified" n="3"/> and nienth Arguments, I proove that Christ is the only institutor of his true Visible Churches nature and forme vn<g ref="char:EOLhyphen"/>der the Gospell definitely and determi<g ref="char:EOLhyphen"/>nately, that is in that very particular forme which the <hi>Definition</hi> there noteth, and is set downe further in the second <hi>Explanation</hi> there ensuing. That is, that such <hi>a Church is only one ordinarie Congregation governed with the peoples free consent.</hi> Where I graunt also that secondarilie, and by con<g ref="char:EOLhyphen"/>sequence from the said 3. and 9. Argu<g ref="char:EOLhyphen"/>ments, I intend to proove that point also in the rest of the 31. Arguments, even this very particular forme (heere last mentioned) of Christs visible Church. And I affirme that by consequence they all doe sufficiently conclude the same. But it is only by consequence, as I said: it is not contained immediatly, expresly, or literally in those Arguments them sel<g ref="char:EOLhyphen"/>ves.</item>
+                  <item>Fourthly, whatsoever other conse<g ref="char:EOLhyphen"/>quentes also do followe from the fore<g ref="char:EOLhyphen"/>noted <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                     <pb n="8" facs="tcp:2982:5"/>pointes (wherein the maine Pro<g ref="char:EOLhyphen"/>positions intent and meaning is now by me declared) I deny not but this said Pro<g ref="char:EOLhyphen"/>position doth include and import the same. Provided alwayes that these Con<g ref="char:EOLhyphen"/>sequents be necessarie, and such as do fol<g ref="char:EOLhyphen"/>low from the former pointes inevitably.</item>
+               </list> Which I am carefull to observe and note in this place, that the Reader may dis<g ref="char:EOLhyphen"/>cerne and consider what that is which this Treatise doth mainly and principal<g ref="char:EOLhyphen"/>lie defend, and what is only a dependant on it, and a cōsequent therefrom. Which in equitie is not of any person either vio<g ref="char:EOLhyphen"/>lently to be strayned, nor curiously to be wrong and wrested. But rather we ought to thinke of the maine matter, and re<g ref="char:EOLhyphen"/>member who saith,<note n="“" place="margin">Luc. 21.33.</note>
+               <hi>Heaven and earth shall passe away, but no part of Christes word shall faile,</hi> nor alter. Also,<note n="†" place="margin">Ioh 10.35.</note>
+               <hi>The Scripture can not be brokē,</hi> &amp; namely, not in those places alleadged in the Treatise plētifully, wher this <hi>King<g ref="char:EOLhyphen"/>ly Office</hi> &amp; right of Christ is taught vs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Besides this, Exception is taken at that a litle after, where I set downe, that<note n="“" place="margin">Treat. pag. 1.2.</note>
+               <hi>a Visible and Ministeriall Church is a companie of people assembling for the exercise of religion, and administring among themselves the holy things of God and particularly the whole Ecclesiastscall go<g ref="char:EOLhyphen"/>vernement, as occasion requireth.</hi> There may be a Church (some say) which admini<g ref="char:EOLhyphen"/>streth not the whole Ecclesiasticall go<g ref="char:EOLhyphen"/>vernement. I answere: In this place my
+<pb n="9" facs="tcp:2982:5"/>purpose was only to distinguish between a Church <hi>Invisible,</hi>
+               <note place="margin">A Church Visible, Mini<g ref="char:EOLhyphen"/>steriall, and Politicall. I vnderstand to be all one,</note> and <hi>Visible</hi> whiche I call likewise <hi>Ministeriall:</hi> and may also in another terme very fitly bee called a Church<note n="*" place="margin">Ephe. 2.12.</note>
+               <hi>Politicall,</hi> that is indued with power of outward administratiō, though spirituall. My purpose heere was not to set downe any further exact description of a Visible Church about their admini<g ref="char:EOLhyphen"/>string the whole governement. Howbe<g ref="char:EOLhyphen"/>it touching this point also, I say, there is no Visible, Ministeriall, or Politicall Church, if it bee of Christ, but it hath power and right from him to administer even the whole Ecclesiasticall governe<g ref="char:EOLhyphen"/>ment, as well as any part. What Church soever hath right to one part of the Ec<g ref="char:EOLhyphen"/>clesiasticall governement, the same cer<g ref="char:EOLhyphen"/>tainly hath power &amp; right to the whole. Nevertheles I doubt not, a true Church may be abridged in the actuall execution of the government, as also of some other of Gods ordinances; but not in the right and power to execute thē wholy. Which still sufficeth to the being of a true Visi<g ref="char:EOLhyphen"/>ble Church, and is convertible with it, as the Scholes doe speak. So this surely was the very intent &amp; meaning of this word in this place, <hi>the whole.</hi> Ecclesiasticall go<g ref="char:EOLhyphen"/>vernement: which, I hope, no man can iustly finde fault with.</p>
+            <p>Againe, exception is taken against this <milestone type="tcpmilestone" unit="unspecified" n="4"/> that I say,<note n="“" place="margin">Treat. pa. 3.</note>
+               <hi>Christes true Ministeriall Church is
+<pb n="10" facs="tcp:2982:6"/>such as hath power over persons not of many ordi<g ref="char:EOLhyphen"/>narie Congregations, but of one ordinarie Congre<g ref="char:EOLhyphen"/>gation only.</hi> Indeed heere I professe that Christes true Ministeriall or Visible Church is but one ordinarie Congrega<g ref="char:EOLhyphen"/>tion only,<note place="margin">The Asser<g ref="char:EOLhyphen"/>tion.</note> or consisteth of people belon<g ref="char:EOLhyphen"/>ging to no moe ordinarie Congregations but one only: and therefore that Christs true Ministerial or Visible Church is not any Diocesan or Provinciall Church. Where my meaning is not, that all Chri<g ref="char:EOLhyphen"/>stes true Visible Churches evermore cō<g ref="char:EOLhyphen"/>taine (each of them) no moe people then do make only one Congregation. But I meane, that none consisteth of many or<g ref="char:EOLhyphen"/>dinarie and constantly set Cōgregations: every one hath but one such Congrega<g ref="char:EOLhyphen"/>tiô only, although occasionally a Church may have in it many vncertain &amp; chāge. able Meetings.</p>
+            <p>And so the point assuredly is most evi<g ref="char:EOLhyphen"/>dent and plaine in the whole New Testa<g ref="char:EOLhyphen"/>ment. The proofe whereof is easie, short, and fully sufficient. Namely thus: <hi>In Christes and the Apostles institution and practise, all Ministeriall Churches were but one ordinarie Congregation onely.</hi>
+               <note place="margin">A proofe of the foresaid Assertion.</note>
+               <hi>Therefore it followeth necessa<g ref="char:EOLhyphen"/>rily that all Christes true Ministeriall Churches nowe still and for ever are so, and must bee so:</hi> that is, each of them consisteth, and ought to consist of people belonging to no moe ordinarie Congregations, but to
+<pb n="11" facs="tcp:2982:6"/>one onely.</p>
+            <p>
+               <note place="margin">The Conse<g ref="char:EOLhyphen"/>quence pro<g ref="char:EOLhyphen"/>ved.</note>And first for this Consequence, verily it is so cleare &amp; inevitable, that nothing can be more. Namelie, if Christ and his Apostles in their institution and practise left no Diocesan or Provinciall Church, but such as were each of them one ordi<g ref="char:EOLhyphen"/>narie Congregation onely, then now still and for ever all Christes true Ministeriall Churches are each of them but one ordi<g ref="char:EOLhyphen"/>narie Congregation only. This doubtles can not be denied. For it is vnlawfull to holde any forme of a Church now which was not then, or hath no patterne for it vnder the Apostles. The whole scope of the maine Treatise, &amp; the 31. Arguments therein contained doe proove so much: which also I have shewed before in this <hi>Declaration,</hi> viz. in my answere to the se<g ref="char:EOLhyphen"/>cond doubt, in the<note n="“" place="margin">pag 6.7.</note> second, third, and fourth point of the answer.</p>
+            <p>If any reply, that to be but one ordi<g ref="char:EOLhyphen"/>narie Congregation, or many, <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> is no Sub<g ref="char:EOLhyphen"/>stantiall or Essentiall difference in a Visi<g ref="char:EOLhyphen"/>ble Church. And then this is a changea<g ref="char:EOLhyphen"/>ble condition therein, and may bee alte<g ref="char:EOLhyphen"/>red by the discretion of men, according to the diversities of times and places; and so a Visible and Ministerial Church may yet bee all one in nature and substance still, though that which was of olde but one ordinarie Congregation, bee now a Diocesan or Provinciall Church. <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> Heere I
+<pb n="12" facs="tcp:2982:7"/>denie the first part of this obiection. It is a Substātial differēce in a Visible Church to be but one ordinarie Congregation, or many. Wherefore also it is evident that the Consequence of this obiection is naught. And note, that this obiectiō is the chiefest ground of all the errour in our question about the being or not being of a true Visible, Ministeriall, and Politicall Church. Remember likewise, that still we vnderstand a Church Visible, Ministe<g ref="char:EOLhyphen"/>riall, and Politicall to be all one, as I ob<g ref="char:EOLhyphen"/>served before in the<note n="“" place="margin">pag. 9.</note> Answere to the third Exception. I say then, that to bee but one ordinarie Congregation only, &amp; to be Diocesan or Provinciall, is a verie substantiall and essentiall difference in a Visible Church,<note place="margin">A Substantiall difference in Visible Chur<g ref="char:EOLhyphen"/>ches.</note> or at least these divers estates are inseparably ioyned to the es<g ref="char:EOLhyphen"/>sentiall differences of Visible and Politi<g ref="char:EOLhyphen"/>call Churches, which in effect is all one.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>1</label> But this needeth good proofe for it. <q>Wherefore I make it manifest thus. That Body politike which admitteth not the peoples free consent in their ordinarie governement, differeth by a substantiall and essentiall difference from a Body po<g ref="char:EOLhyphen"/>litike which admitteth the same free<g ref="char:EOLhyphen"/>dome.</q>
+            </p>
+            <p>
+               <q>A Visible Church Diocesan, or Pro<g ref="char:EOLhyphen"/>vinciall, or larger, is a Body politike, that admitteth not the peoples free consent in their ordinarie governemēt; a Church
+<pb n="13" facs="tcp:2982:7"/>which is but one ordinarie Cōgregation, is a Body politike that admitteth this freedome, and can admit it well.</q>
+            </p>
+            <p>
+               <q>Therefore a Diocesan and Provinciall Church, &amp; larger, differeth by a Substan<g ref="char:EOLhyphen"/>tiall and Essentiall difference from a Church which is but one ordinarie Con<g ref="char:EOLhyphen"/>gregation.</q>
+            </p>
+            <p>The first Proposition is acknowledged of all men of vnderstanding, generallie to be true. Yet the truth thereof is most e<g ref="char:EOLhyphen"/>vident in the spirituall (that is the Eccle<g ref="char:EOLhyphen"/>siasticall) governement, to which intent it is heere chiefly applied. It is also plain<g ref="char:EOLhyphen"/>lie shewed in the second <hi>Explanation,</hi> pag. 3.4.5. of the Treatise. And againe, I shall something further declare it in my An<g ref="char:EOLhyphen"/>swer following to the 5. Exception.</p>
+            <p>The second Proposition or <hi>Minor</hi> is ac<g ref="char:EOLhyphen"/>knowledged also even of our adversaries: indeed it cannot bee denied of anie. For Diocesan and Provinciall Churches have never admitted, nor doe admit the peo<g ref="char:EOLhyphen"/>ples free consent in their ordinarie go<g ref="char:EOLhyphen"/>vernement, neither indeed can they ad<g ref="char:EOLhyphen"/>mit it orderly. It would be in them to troublesome, confused, and impossible.</p>
+            <p>Yea, where each ordinary Congregati<g ref="char:EOLhyphen"/>on giveth their free consent in their own gouernement, there certainly each Con<g ref="char:EOLhyphen"/>gregation is an intire and independent Body politike, and indued with power immediatly vnder, and from Christ, as e<g ref="char:EOLhyphen"/>very
+<pb n="14" facs="tcp:2982:8"/>proper Church is, and ought to be. And so then there can not be any proper Diocesan or Provintiall Church, where such Congregations be: though perhaps there may be somwhere at somtimes such names vsed (even of Diocesan and Pro<g ref="char:EOLhyphen"/>vinciall Churches) for other respects.</p>
+            <p>Wherefore this very one thing, namelie this freedome of the Christian people or<g ref="char:EOLhyphen"/>derly &amp; religiously practised in a church, maketh that the said Church of necessi<g ref="char:EOLhyphen"/>tie must consist of persons belonging not to many ordinarie Congregations, and those meeting in farre remote places (as the state is of Diocesan and Provinciall Churches) but of persons belonging to one only ordinarie Congregation. And that such were in the New Testament, &amp; since, and are now also in these dayes, it is more then manifest. Wherefore thus the conclusion is most certaine, that a Diocesan and Provinciall Church diffe<g ref="char:EOLhyphen"/>reth by a Substantiall and Essentiall dif<g ref="char:EOLhyphen"/>ference, from a Visible Church which is but one ordinarie Congregation only.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>2</label> Another proofe heereof is this: <q>That Church which out of the very Nature &amp; Forme of the constitution thereof, ma<g ref="char:EOLhyphen"/>keth Pluralitie-Men and Nonrefidentes lawfull &amp; good Ministers of the Gospell, yea which hath her chiefe and principall Ministers such, the same differeth by a Substantiall difference from that Church
+<pb n="15" facs="tcp:2982:8"/>where no Minister can be so.</q>
+            </p>
+            <p>
+               <q>The Diocesan Church, and Provincial, and larger, are Churches of that Nature. The chief and principall Pastors in these, have charge of soules of many ordinarie Congregations: also in such wise as that they neither doe, nor can yeeld their or<g ref="char:EOLhyphen"/>dinarie personall presence to their peo<g ref="char:EOLhyphen"/>ple. And these surely are Pluralitie-men, and Nonresidents, in the time of the Go<g ref="char:EOLhyphen"/>spell. Contrariewise, that Church which is onely one ordinarie Congregation, can not have any such Ministers.</q>
+            </p>
+            <p>
+               <q>Therefore the Diocesan Church, the Provinciall, and larger, doe differ by a Substantiall difference from that Church which is but one only ordinarie Congre<g ref="char:EOLhyphen"/>gation.</q>
+            </p>
+            <p>Thirdly, this is another reason for it. <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>3</label>
+               <q>Where all proper Pastors and Bishops, and their Churches do injoye (as the A<g ref="char:EOLhyphen"/>postles did among them selves) <hi>pari con<g ref="char:EOLhyphen"/>s<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rtio &amp; honoris &amp; potestatis,</hi>
+                  <note place="margin">Cypr. dev<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Eccle.</note> even all one and the same honor and power, and where likewise none doth exercise authoritie over other, nor dominion over the Lords inheritance, there is a Substantiall difference from those Churches where it is otherwise.</q>
+            </p>
+            <p>
+               <q>In the Churches which are each but one ordinarie Congregation, this equall honor and power is injoyed, and no Pa<g ref="char:EOLhyphen"/>stors do exercise authoritie over others,
+<pb n="16" facs="tcp:2982:9"/>nor dominion over the Lordes inheri<g ref="char:EOLhyphen"/>tance: but in Provinciall and Diocesan Churches it is otherwise. As experience sheweth.</q>
+            </p>
+            <p>
+               <q>Therefore in Churches which are each but one ordinarie Congregation, there is a Substantiall difference from Provincial and Diocesan Churches.</q>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>4</label> Fourthly thus: <q>In those Churches where everie Pastor doth <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, Teach and Governe, exercising both the Keyes, and delivering wholy the Lords appointed portiō of spiritual nou<g ref="char:EOLhyphen"/>rishment to his houshold, there is a Sub<g ref="char:EOLhyphen"/>stantiall difference from those Churches where the most of the Pastors doe not so, nor many doe so; but doe separate that which God hath ioyned togeather.</q>
+            </p>
+            <p>
+               <q>In the Churches which are each of thē but one ordinarie Congregation, everie Pastor doeth <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, Teach and Governe, exercising both the Keyes, and delivering wholy the Lords<note n="“" place="margin">Luc. 12.42. Act. 20.28. Pet. 5.2. 1. Tim. 5.17. 1. Thes. 5.12. Mat. 18.17. &amp; 16.19.</note> appointed portion of Spirituall nourishment to his houshold: in the Provinciall and Dioce<g ref="char:EOLhyphen"/>san Churches the most of the Pastors nei<g ref="char:EOLhyphen"/>ther doe, nor may doe so. Yea not above one of 200. or one of 5000. doth so, or can doe so. Thus<note n="†" place="margin">Math. 19.6.</note> Separating that which God hath joyned togeather.</q>
+            </p>
+            <p>
+               <q>Therefore in the Churches which are each of them but one ordinarie Congre<g ref="char:EOLhyphen"/>gation" there is a substantiall difference
+<pb n="17" facs="tcp:2982:9"/>from Diocesan Churches and Provinci<g ref="char:EOLhyphen"/>all and larger.</q>
+            </p>
+            <p>Fiftly, thus: <q>That Visible and Politicall <label type="milestone">
+                     <seg type="milestoneunit">Reason </seg>5</label> Church which hath her foundation in Christes Testament, and also hath sett boundes and limites there, differeth fun<g ref="char:EOLhyphen"/>damentally, and substantially, and Essen<g ref="char:EOLhyphen"/>tially from that Church, which neither hath set boundes and limites in Christes Testament, nor any foundation there.</q>
+            </p>
+            <p>
+               <q>A Church which is onely but one or<g ref="char:EOLhyphen"/>dinarie Congregation, hath her Founda<g ref="char:EOLhyphen"/>tion in Christes Testament, and also hath set bounds and limites there: a Diocesan or Provinciall Church, hath neither.</q>
+            </p>
+            <p>
+               <q>Therefore a Visible and Politicall Church which is only but one ordinarie Congregation, differeth fundamentally and substantially and essentially from a Diocesan or Provinciall Church.</q>
+            </p>
+            <p>The first Proposition or <hi>Mator</hi> is certain, because touching<note n="“" place="margin">Math. 16.18.</note>
+               <hi>the Church,</hi>
+               <note n="*" place="margin">1. Cor. 3.1<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>no other foundation can any man lay but that which is laid, which is Iesus Christ.</hi> Also every Body poli<g ref="char:EOLhyphen"/>tike (namely the Spirituall) having bounds &amp; limites set by God, must needs differ substantially from that which hath no set boundes at all, but is left at large to the will of men: Whereby it may soone become (as vsually it doth) to great and vnwieldy. Such a false foundation of Christes Church D. <hi>Downame</hi> layeth, and such false boundes thereof: viz. the order
+<pb n="18" facs="tcp:2982:10"/>of<note n="“" place="margin">D. Down<g ref="char:EOLhyphen"/>ame Defens. Book. 2. pag. 73. &amp;c.</note>
+               <hi>the Civill state.</hi> I have proved it at large in the Treatise to be so.</p>
+            <p>The <hi>Minor</hi> is likewise very true: viz, A Visible and Political Church which is on<g ref="char:EOLhyphen"/>ly but one ordinarie Congregation hath her foundation in Christes Testament. It hath both preceptes and patternes for it there, as is shewed in the <hi>Treatise</hi> Arg. 3. &amp; 9. and in <hi>Reas. for reform.</hi> pag. 19. 20. 21. yea most directly in the proofes of our <hi>Antece<g ref="char:EOLhyphen"/>dent</hi> heere presently following, pag. 20, &amp;c. Againe this Church hath her set boundes and limites in Christes Testament, seeing there it is (namely) <hi>Ecclesia,</hi> that is not many ordinarie set Assemblies but onely one. D. <hi>Downame</hi> saith,<note n="“" place="margin">Ibid. pag. 42. 43. 30 &amp;c.</note>
+               <hi>a Church vnder the Apostles was a great City and all the Country ad<g ref="char:EOLhyphen"/>ioyning,</hi> as it hath ben since. But this is a no<g ref="char:EOLhyphen"/>torious fable. Never any in those times vnderstood the word. <hi>Ecclesia</hi> to signifie many ordinary assemblies, yea in places far distāt a sunder as a Dioces is: though it now so signifieth, &amp; did signifie about 300. yeares after Christ, whē they began som<g ref="char:EOLhyphen"/>time to meane thereby a Province, or a Diocesse. But we must rest our faith vpon the sincere speaking and doing of the A<g ref="char:EOLhyphen"/>postles, not vpon the equivocating words and declining actions of men, especially so late.<note place="margin">N<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> Neither meane we by <hi>boundes</hi> and <hi>li<g ref="char:EOLhyphen"/>mites</hi> of the Visible Church any circuit of ground at all: and so neither the set com<g ref="char:EOLhyphen"/>passe of <hi>a Parish,</hi> as it is now reckoned with
+<pb n="19" facs="tcp:2982:10"/>vs: but we vnderstand only that all the persons thereof belonged to one ordinary Congregation, and not to many in those times. This limit, we say, is set and de<g ref="char:EOLhyphen"/>termined in the word <hi>Ecclesia,</hi> where it no<g ref="char:EOLhyphen"/>teth a political Visible Church in the New Testament. Which also in a good sense may be called <hi>a Parish,</hi> we graunt.</p>
+            <p>And these things verily are Substauti<g ref="char:EOLhyphen"/>all and Essentiall pointes in the Churches which are each but one ordinary Congre<g ref="char:EOLhyphen"/>gation, distinguishing them essentially from Diocesan Churches and Provincial, and larger: or at least they are inseparably ioyned to the essence of them (as before I said) which is all one in effect, and cometh to the same issue in our question as if they were of the very essence of them. So that the generall proofe alleadged before in the beginning of<note n="“" place="margin">Pag. 10.</note> this Answer, viz. <hi>In Christes and the Apostles institution and practise all Visible Churches were each of them but one ordinarie Con<g ref="char:EOLhyphen"/>gregation.</hi>
+            </p>
+            <p>
+               <hi>Therefore all Christes true Churches now still and for ever are so, and ought to be so.</hi>
+            </p>
+            <p>This reason, I say, is firme and good, and cannot be shaken; the Consequence is vn<g ref="char:EOLhyphen"/>deniable. Seeing without question all Churches both then and now had &amp; have but one only essence and forme, and con<g ref="char:EOLhyphen"/>stitution. Though they are many in nom<g ref="char:EOLhyphen"/>ber, yet all are but one in nature, and es<g ref="char:EOLhyphen"/>sence, and forme. Which both is manifest
+<pb n="20" facs="tcp:2982:11"/>in reason, and may be proved also by that generall axiome in <hi>Eph. 4.4.5. There is one Body</hi> (that is, one Visible and Politicall Church; seeing the generalitie of the word may extend heerevnto) <hi>one Spirit, one Lord, one Faith, one Baptisme.</hi> This <hi>Body, Faith,</hi> and <hi>Baptisme</hi> are each of them simply one in nature; many in nomber.</p>
+            <p>Yet nevertheles this our maine reason,<note place="margin">The Antece<g ref="char:EOLhyphen"/>dent pag. 10. prooved.</note> &amp; Consequence, is true but vpon Suppo<g ref="char:EOLhyphen"/>sition only, that is, if the first part therof be true; viz. If in Christes &amp; the Apostles in<g ref="char:EOLhyphen"/>stitution and practise all Churches then were each of them but only one ordinarie Congregation. Now this many do flatlie denie; many do greatly doubt of it; and it is the chiefest point in all our controver<g ref="char:EOLhyphen"/>sie. Wherefore I will heere bring some most cleere &amp; invincible reasons to prove it, namely, that <hi>In Christes and the Apostles in<g ref="char:EOLhyphen"/>stitution and practise all Churches then were each of them but only one ordinarie Congregation.</hi> For proofe whereof I reason, first thus.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Proofe. </seg>1</label>
+               <q>Every Visible Church which had the peoples free consent in their ordinarie governement rightly appointed, the same was only one ordinarie Congregation: it was no Provinciall nor Diocesan Church.</q>
+            </p>
+            <p>
+               <q>All Christes true Visible Churches mē<g ref="char:EOLhyphen"/>tioned in the New Testamēt had the peo<g ref="char:EOLhyphen"/>ples free consent in their ordinarie go<g ref="char:EOLhyphen"/>vernement rightly appointed.</q>
+            </p>
+            <p>
+               <q>Therefore all Christes true Visible
+<pb n="21" facs="tcp:2982:11"/>Churches mentioned in the New Testa<g ref="char:EOLhyphen"/>ment were each of them only one ordina<g ref="char:EOLhyphen"/>rie Congregation: none of them was any Provinciall, nor Diocesan Church.</q>
+            </p>
+            <p>The first Proposition is made manifest a little<note n="“" place="margin">Pag. 1<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> before. The second or <hi>Minor</hi> is proved at large in the <hi>Treatise</hi> Arg. 3. and 9. as also in the <hi>Reas. for reform.</hi> pag. 45.46.47. &amp;c. Vnto which point we have a ge<g ref="char:EOLhyphen"/>nerall consent of all godly learned men: a nomber of whom are remembred by Mai<g ref="char:EOLhyphen"/>ster <hi>Whetenhall,</hi> in his <hi>Discourse:</hi> besides such as Maister <hi>Cartwright</hi> plentifully alleadgeth in his writings to this purpose. Brieflie,<note place="margin">
+                  <hi>See the</hi> At<g ref="char:EOLhyphen"/>testation &amp;c.</note> the Churches abroad at this day do gene<g ref="char:EOLhyphen"/>rally acknowledge it, as also the Churches in the Primitive times did by their prac<g ref="char:EOLhyphen"/>tise. Where I pray let it be noted, that we stand strictlie vpon no other free consent of the people but this,<note place="margin">Beza.</note> that <hi>populo invito ni<g ref="char:EOLhyphen"/>hil obtrudatur:</hi> Nothing may be imposed on the people against their will. Which Mai<g ref="char:EOLhyphen"/>ster <hi>Beza</hi> resolveth ought to bee everie where. <hi>Epist.</hi> 83. And vnder the Apostles he sheweth that it was so at the least. <hi>An<g ref="char:EOLhyphen"/>notat.</hi> in Act. 14.23. &amp; in 1. Tim. 5.22.</p>
+            <p>Secondly I reason thus:</p>
+            <p>
+               <q>No Church in the Apostles times had a<g ref="char:EOLhyphen"/>nie <label type="milestone">
+                     <seg type="milestoneunit">Proofe. </seg>2</label> Pastors Pluralistes and Nonresidents.</q>
+            </p>
+            <p>
+               <q>All Provinciall and Diocesan Churches have some Pastors Pluralistes and Nonre<g ref="char:EOLhyphen"/>sidents.</q>
+            </p>
+            <p>
+               <q>Therefore no Provinciall or Diocesan
+<pb n="22" facs="tcp:2982:12"/>Churches were in the Apostles times.</q>
+            </p>
+            <p>The first Proposition is generally held as a Principle of sound doctrine by al that have the feare of God, and any love of the truth in their hearts. For otherwise <hi>Plura<g ref="char:EOLhyphen"/>listes</hi> and <hi>Nonresident</hi> Pastors wilbe Aposto<g ref="char:EOLhyphen"/>licall and lawfull, yea verily ordained &amp; appointed by the Apostles. Howbeit yet iustly doth every good mā abhorre them,<note place="margin">Dieo vtrum<g ref="char:EOLhyphen"/>que esse pro<g ref="char:EOLhyphen"/>digiosum fla<g ref="char:EOLhyphen"/>gitium &amp;c. Calv. Institut. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.5.7.</note> and worthily accounteth them detestable: esteeming them (as in deed they are) cō<g ref="char:EOLhyphen"/>trarie to the rule of the Gospell, and to the salvation of mens soules. Namely in that they are true and manifest causes of ignorance in the people, and of their vn<g ref="char:EOLhyphen"/>christian dissolutnes of life. The <hi>Minor</hi> is to be vnderstood of a Diocesan or Provin<g ref="char:EOLhyphen"/>ciall Church properly so called, that is, where the people of the ordinarie Congre<g ref="char:EOLhyphen"/>gations have not that free cōsent in their governement which before I spake of, which is, at least, that nothing be vrged v<g ref="char:EOLhyphen"/>pon thē by any <hi>spirituall power</hi> against their willes. Where the people of the Congre<g ref="char:EOLhyphen"/>gations have not this free power in them<g ref="char:EOLhyphen"/>selves, but are absolutly vnder a Diocesan or Provinciall jurisdiction Ecclesiasticall, there is that Diocesan or Provinciall Church which I signifie in the <hi>Minor</hi> pro<g ref="char:EOLhyphen"/>position. All which Churches have <hi>Bishops</hi> correspondent &amp; proportionable to their said jurisdiction. I say, they all have such correspondent and proportionable <hi>Bishops,</hi>
+               <pb n="23" facs="tcp:2982:12"/>or els in all true reason they may &amp; should have. Now al such proper Diocesan &amp; Pro<g ref="char:EOLhyphen"/>vincial Bishops have a ful Pastorall charge of soules of a great many (300. or 400. or many mo) distinct ordinarie Congrega<g ref="char:EOLhyphen"/>tions. They them selves, and their defen<g ref="char:EOLhyphen"/>ders acknowledge this plainly.<note place="margin">D. Down. b. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. pag. 67. &amp;c.</note> Also none of these doth nor can give his ordinarie personall presence to 2. or 3. of these said Congregations by any possible meanes. And what els is a Nonresident and Plura<g ref="char:EOLhyphen"/>list vnder the Gospell but such a one? A<g ref="char:EOLhyphen"/>gaine, if of necessitie every such Bishop be a Nonresident to 2. or 3. severall Congre<g ref="char:EOLhyphen"/>gations vnder him, then how much more is he a Nonresident &amp; Pluralist in respect of all to which he is Pastor? Wherefore it remayneth cleere and certaine that eve<g ref="char:EOLhyphen"/>rie Diocesan Bishop (and the Provinciall much more) can not but be in the time of the Gospell a huge Nonresident. Which al<g ref="char:EOLhyphen"/>so maketh the <hi>Minor</hi> both heere &amp; before, pag. 15. to be true: wherevpon the conclu<g ref="char:EOLhyphen"/>sion followeth, viz. <hi>No Provinciall or Dioce<g ref="char:EOLhyphen"/>san Church was in the Apostles dayes.</hi>
+            </p>
+            <p>A third proofe is this.</p>
+            <p>
+               <q>Where no Churches are superior to o<g ref="char:EOLhyphen"/>ther <label type="milestone">
+                     <seg type="milestoneunit">Proofe. </seg>3</label> in power: also where no Pastors do exercise authoritie over other, nor domi<g ref="char:EOLhyphen"/>nion over the Lords inheritance, there are no Provinciall nor Diocesan Chur<g ref="char:EOLhyphen"/>ches.</q>
+            </p>
+            <p>
+               <q>In all the New Testament there are no
+<pb n="24" facs="tcp:2982:13"/>such Churches, nor such Pastors.</q>
+            </p>
+            <p>
+               <q>Therefore in all the New Testament there are. no Provinciall nor Diocesan Churches: but consequently, all are Or<g ref="char:EOLhyphen"/>dinarie Congregations only.</q>
+            </p>
+            <p>The <hi>Maior</hi> proposition is knowen by experience, and is without all question. The <hi>Minor</hi> is as cleere in the text as any thing can be. For no where can any such Superioritie &amp; Dominion in spiritual af<g ref="char:EOLhyphen"/>fayres bee found throughout the whole New Testament. Besides, the same is foūd expresly forbidden in Luc. 22.26. and 1. Pet. 5.3. There was not any firme Dioce<g ref="char:EOLhyphen"/>san authoritie till the <hi>Councill of Nice,</hi> then it began first to be appointed by<note n="“" place="margin">Nie. Concil. Can. 6.</note> Law. Before I grant there was an <hi>old custome</hi> of respecting the Metropolitā Bishops mind in the Churches affayres of meaner pla<g ref="char:EOLhyphen"/>ces, specially in <hi>Egypt:</hi> but it was by a free and voluntary affection and inclining heerevnto, it was arbitrarie, it was with<g ref="char:EOLhyphen"/>out power, it imported no necessitie of obedience till this time of the <hi>Nicen</hi> Coū<g ref="char:EOLhyphen"/>cill. So that then I grant a kinde of Dioce<g ref="char:EOLhyphen"/>san Church began about 330. yeares after Christ. Howbeit yet this was farre from making a Diocesan or Provinciall proper and perfite Church whereof heere wee speake. Which indeed so long as the Chri<g ref="char:EOLhyphen"/>stian people in the Cōgregations retained their freedom to consent in their ordina<g ref="char:EOLhyphen"/>rie governement, had no place in the
+<pb n="25" facs="tcp:2982:13"/>world. Now, restraint heereof tooke not place till after the 4. Council of <hi>Carthage:</hi> for then the people<note n="“" place="margin">Can. 22.</note> had this their liber<g ref="char:EOLhyphen"/>tie, about the yeare 420. yea (as wee may iudge) till the great Councill in <hi>Trullo,</hi> which<note n="†" place="margin">Can. 2.</note> confirmed the forenamed Coun<g ref="char:EOLhyphen"/>cill of <hi>Carthage,</hi> about the yeare 682. So long therefore and longer wee may well thinke, this proper Diocesan Church was not erected, at least not generally; but the ordinarie Congregations were the pro<g ref="char:EOLhyphen"/>per Churches yet still. Of this more els where. Nevertheles by this we see that our <hi>Minor</hi> is certain.</p>
+            <p>A fourth proofe is this. <label type="milestone">
+                  <seg type="milestoneunit">Proofe. </seg>4</label>
+            </p>
+            <p>
+               <q>Where all Pastors do <hi>poimainein,</hi> that is, Teach and Rule, and where all Churches do exercise both the Keyes, and do who<g ref="char:EOLhyphen"/>ly deliver the Lords appointed portiō of spirituall nourishment to his houshould, there is no Provinciall nor Diocesan Church. In the whole New Testament all Pastors, and all Churches do so.</q>
+            </p>
+            <p>
+               <q>Therfore in the whole New Testament there is no Provinciall nor Diocesan Church.</q>
+            </p>
+            <p>This <hi>Maior</hi> is likewise evident in reason and experience, as the last before was. The <hi>Minor</hi> is cleere by these texts, Act. 20. 28. and 1. Pet. 5.2. and 1. Tim. 5.17. and 1. Thess. 5.12. Math. 18.17. and 16.19. Luc. 12.42. vnto which all other are confor<g ref="char:EOLhyphen"/>mable and correspondent. If any sticke at
+<pb n="26" facs="tcp:2982:14"/>
+               <hi>Math.</hi> 18.17. (as perhaps some will) I re<g ref="char:EOLhyphen"/>ferre him for satisfaction therein to the Treatise it selfe, Arg. 3.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Proofe. </seg>5</label> Fiftly thus I prove it.</p>
+            <p>
+               <q>If the most florishing Church of <hi>Corinth</hi> in the Apostles times was in the whole but onely one ordinarie Congregation, then all other Churches at that time, and since, are each of them but only one or<g ref="char:EOLhyphen"/>dinary Congregation.</q>
+            </p>
+            <p>
+               <q>The most florishing Church of <hi>Corinth</hi> in the Apostles times was in the whole but only one ordinarie Cōgregation. For so the Apostle saith of it, 1. Cor. 14.23. <hi>When the whole Church is come togeather in one, or into one place, &amp;c.</hi> The whole then made but one Congregation. The like we may note, Chap. 11.20.18. chap. 5.4.</q>
+            </p>
+            <p>
+               <q>Therfore all other Churches then in the Apostles times and since, are each of them but only one ordinarie Congregation.</q>
+            </p>
+            <p>The <hi>Mai<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> is certain, because all true Churches of Christ both then, and for e<g ref="char:EOLhyphen"/>ver, had and haue but one forme, nature, and constitution, as is<note n="“" place="margin">Pag. 19.20.</note> before shewed, and our adversaries do<note n="†" place="margin">D. Down. Book. a. pag. 42.45.</note> graunt. To the <hi>Minor,</hi> it is idle to say (as some do) that those wordes, <hi>the whole Church came togea<g ref="char:EOLhyphen"/>ther into one place,</hi> are to be vnderstoode di<g ref="char:EOLhyphen"/>stributively of many severall ordinarie Congregations then belonging to the Church of <hi>Corinth.</hi> Nay; evidently these wordes are spokon touching all, and to al
+<pb n="27" facs="tcp:2982:14"/>them, to whom the Epistle is directed, &amp;c also in that very maner. But the Epistle is directed <hi>to the Church of Corinth</hi> in gene<g ref="char:EOLhyphen"/>rall collectively, 1. Cor. 1.2. Therefore those wordes are spoken to the whole <hi>Co<g ref="char:EOLhyphen"/>rinthian</hi> Church in generall collectively; &amp; collectively the whole in generall did <hi>ceme togeather in one place</hi> at that time. Be<g ref="char:EOLhyphen"/>sides, our adversaries say that the divisi<g ref="char:EOLhyphen"/>on of Parishes and Dioceses<note n="“" place="margin">Platina in P. Dionys.</note> came in a<g ref="char:EOLhyphen"/>bout the yeare of Christ 260. So that then in the Apostles dayes neither the <hi>Corinthi<g ref="char:EOLhyphen"/>an</hi> Church, nor any other, was a Dioce<g ref="char:EOLhyphen"/>san Church. Some further object 2. Cor. 1.1. <hi>To the Church at Corinth with all the Saints which are in al Achaia.</hi> As if here al the Saints which were in all <hi>Achaia</hi> made then but one Visible Church with that at <hi>Corinth:</hi> and so the Corinthian Church then was a Diocesan or Provinciall Church. But there is no shew of reason in the world for this. As well may they conclude from 1. Cor. 1.2. <hi>To the Church at Corinth Saints by calling, with all that call vppon the name of our Lord lesus Christ in every place, both their Lord and ours.</hi> As well, I say, they may frō hence conclude, that <hi>all who called vpon the name of Christ in every place</hi> then made but one Vi<g ref="char:EOLhyphen"/>sible Church with that at <hi>Corinth,</hi> and so the <hi>Corinthian</hi> Church then was a Vniver<g ref="char:EOLhyphen"/>sall Visible Church. Which how absurd it is, all men see. Yet this is altogeather as good, &amp; as likely a collectiō, as the other.</p>
+            <pb n="28" facs="tcp:2982:15"/>
+            <p> My sixt reason is this.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Proofe. </seg>6</label>
+               <q>If the Apostles, where they speake of Christians set in outward order through a Province, do never mētion any one ge<g ref="char:EOLhyphen"/>nerall Church of that Province, or of a Diocese, but alwayes many several Chur<g ref="char:EOLhyphen"/>ches, such as were each of them one ordi<g ref="char:EOLhyphen"/>narie Congregation only, then in the A<g ref="char:EOLhyphen"/>postles times there was no Provinicall or Diocesan Church, but only such as were each of them one ordinary Congregation only.</q> This sentence can not be denied or doubted of: Seeing it is both presumptu<g ref="char:EOLhyphen"/>ous &amp; absurd to hold that there was such a forme of a Church then as cannot bee gathered out of any of their writings. Againe, it is no lesse absurd, yea impious to hold any such forme of a Church now as was not then, or hath no patterne for it vnder the Apostles. But indeed al that former clause is most true: <q>Where the Apostles speake of Christians set in out<g ref="char:EOLhyphen"/>ward Order through a Province, greater or lesser, they never mention any one ge<g ref="char:EOLhyphen"/>nerall Church of the Province, but al<g ref="char:EOLhyphen"/>wayes many severall Churches.</q> As is to be seene by their naming plurally<note n="“" place="margin">1. Cor. 16.1 Gal. 1.2. &amp; 21</note>
+               <hi>the Churches of Galatia:</hi> never one singular Church of <hi>Galatia.</hi> Likewise plurally<note n="*" place="margin">Vers. 26. &amp; 1. Thes 2.14.</note>
+               <hi>the Churches of Iudea:</hi> &amp;<note n="“" place="margin">2. Cor. 8.1.</note>
+               <hi>of Macedonia: &amp;</hi>
+               <note n="†" place="margin">1. Cor. 16.19.</note>
+               <hi>of Asia,</hi> &amp;c. Never finde we one Church general in any of these Provinces: neither cā the like be foūd any where in all the New Testam.
+<pb n="29" facs="tcp:2982:15"/>
+               <q>Moreover the several Churches thu splu<g ref="char:EOLhyphen"/>rally named, are such as were each of them singularly one ordinary Congrega<g ref="char:EOLhyphen"/>tiō only. The<note n="†" place="margin">Ecclesia.</note> word it selfe importeth it.</q>
+            </p>
+            <p>
+               <q>Therefore then in the Apostles times there was no Provinciall or Diocesan Church, but onely such as were each of them one ordinarie Congregation only.</q> And so D. <hi>Downames</hi> dissolute groūd of a Church, viz. that it may follow the order of <hi>the civill State</hi> is heereby also quite over<g ref="char:EOLhyphen"/>throwne.</p>
+            <p>Against the <hi>Minor</hi> they obiect,<note place="margin">D. Down. b. 4. pag 87.</note> that there was a generall Church of <hi>Crete,</hi> whereof <hi>Titus</hi> was Bishop. I answer, the New Te<g ref="char:EOLhyphen"/>stament no where nameth one generall Church of <hi>Crete,</hi> nor <hi>Titus</hi> Bishop of <hi>Crete.</hi> Therefore heere is nothing against vs. <hi>Eusebius</hi> speaking of these times,<note n="“" place="margin">Euseb. 3.4. and 4.22.</note> nameth <hi>the Churches of Crete</hi> plurally. Neither could <hi>Titus</hi> be any proper Bishop of Crete, for he was in the same Function and Office of Ministerie before he came to Crete, as he was when (for a time) he taried there. But before, being at<note n="“" place="margin">Gal. 2.1.</note>
+               <hi>Ierusalem,</hi> at<note n="*" place="margin">2. Cor. 8.17.</note>
+               <hi>Corinth,</hi> in<note n="†" place="margin">2. Cor. 12.18 with 9 2.3.</note>
+               <hi>Macedonia,</hi> he was thē no proper Bishop: he was an Evangelist. Therefore hee was so in Crete also. Againe he was as <hi>Timothie</hi> was. But the Apostle saith, he was<note n="“" place="margin">2. Tim. 4.5.</note>
+               <hi>an E<g ref="char:EOLhyphen"/>vangelist:</hi> neither is there any reason that the Apostle here spake improperly. Ther<g ref="char:EOLhyphen"/>fore <hi>Timothie</hi> and <hi>Titus</hi> both were Evange<g ref="char:EOLhyphen"/>listes: and by consequence not proper Bi<g ref="char:EOLhyphen"/>shops.
+<pb n="30" facs="tcp:2982:16"/>The workes of Bishos they did, &amp; more too; as also the Apostles did. Who yet were no proper Bishops, neither could be: seeing the H. Ghost had made them<note n="“" place="margin">1. Cor. 12.18. Ephe. 4.11.</note> divers. Also the Bishoplike power which these all had, was in them materi<g ref="char:EOLhyphen"/>ally, not formally, as I may so speake. And it is still to remaine with their Suc<g ref="char:EOLhyphen"/>cessors, not in the forme of their proper functions, viz. as they were Apostles or Evangelistes, but in an other forme, viz. in the ordinary Bishops and Pastors, who all indeed do equally succeed them. And thus any thing that is obiected of worth concerning <hi>Titus</hi> or Crete, is cleerely re<g ref="char:EOLhyphen"/>futed. Further it is<note n="“" place="margin">D. Down. b. 2. pag 104.</note> obiected, that<note n="*" place="margin">Rom. 16.1.</note>
+               <hi>the Church of Ceachreae was a Parish subordinat to the Church of Corinth.</hi> But this is easily proved to be false. <hi>Paul</hi> calleth it <hi>a Church</hi> proper<g ref="char:EOLhyphen"/>lie: he speaketh heere questionles proper<g ref="char:EOLhyphen"/>lie, and not by the figure <hi>Synecdoche,</hi> as sig<g ref="char:EOLhyphen"/>nifying a part of a church, &amp; not a whole Church. There is no cause of Paules fi<g ref="char:EOLhyphen"/>gurative speaking in this place: Therefore he did not so speake. But certainly he cal<g ref="char:EOLhyphen"/>leth this Church of <hi>Cenchteae</hi> by this name as properly, as he nameth the Church of <hi>Corinth,</hi> or <hi>Ephesus,</hi> or <hi>Antioch.</hi> And therefore certainly it was then as proper a Church, as intire, as totall, and independent, as a<g ref="char:EOLhyphen"/>ny of them. Lastly those<note n="“" place="margin">Act. 21.20.</note>
+               <hi>many 10. thou<g ref="char:EOLhyphen"/>sands</hi> at Ierusalem<note n="†" place="margin">D. Down. b. 2. pag. 91.</note> are obiected, as making that Church then not one ordinary Con<g ref="char:EOLhyphen"/>gregation
+<pb n="31" facs="tcp:2982:16"/>only, but <hi>Provinciall</hi> at least. I answer, these were not all of the Church of <hi>Ierusalem.</hi> Heere in this text there is no such thing spoken, nor meant. But the solemne feast of <hi>Pentecost</hi> now being at <hi>Ie<g ref="char:EOLhyphen"/>rusalem,</hi>
+               <note place="margin">Act. 20.12.</note> the greatest part of these mē were come vp thither out of forraigne places and farre countries, as the Law required. For these were al lews,<note n="†" place="margin">Act. 21.20.</note>
+               <hi>&amp; Zealous of the law,</hi> as the text heere sheweth. And this<note n="“" place="margin">vers. 22.</note>
+               <hi>mul<g ref="char:EOLhyphen"/>titude</hi> (it is like) were they that would <hi>come togeather</hi> to know the truth of Paul when they should heare that he also was come thither. These therefore were not members of <hi>Ierusalems</hi> Church, though they were so many in that Citie at this time: neither doth this shew any thing of the greatnes or smallnes of the ordina<g ref="char:EOLhyphen"/>rie Church at Ierusalem in those times, vnles it prove the same then to be, no mo then one Congregation, seeing heere it is said of the whole multitude, that they would <hi>come togeather.</hi> Lastly thus I rea<g ref="char:EOLhyphen"/>son further: <q>Every company of people ioyned togeather in a politie and signifi<g ref="char:EOLhyphen"/>ed <label type="milestone">
+                     <seg type="milestoneunit">Proofe. </seg>7</label> by the <hi>Greeke</hi> word <hi>Ecclesia</hi> in the Apo<g ref="char:EOLhyphen"/>stles dayes, is but one ordinarie Congre<g ref="char:EOLhyphen"/>gation only.</q>
+            </p>
+            <p>
+               <q>All Christes true Visible Churches in the New Testam. are each of them a com<g ref="char:EOLhyphen"/>panie of people ioyned togeather in a po<g ref="char:EOLhyphen"/>litie and signified by the <hi>Greeke</hi> worde <hi>Ec<g ref="char:EOLhyphen"/>clesia</hi> in the Apostles dayes.</q>
+            </p>
+            <pb n="32" facs="tcp:2982:17"/>
+            <p>
+               <q>Therefore all Christes true Visible churches in the New Testament are each of them but one ordinarie Congregation only.</q>
+            </p>
+            <p>Every part of this reason is most mani<g ref="char:EOLhyphen"/>festly true and certain.</p>
+            <p>D. <hi>Downames</hi> whole resistance in his <hi>De<g ref="char:EOLhyphen"/>fence</hi> standeth on a most frivolous &amp; false exception against the <hi>Maior.</hi> Saith he<note n="“" place="margin">D. Down. b. a. pag 49.54.55.65.53.</note>
+               <hi>The circuit of a</hi>
+               <note n="*" place="margin">Ecclesia.</note>
+               <hi>Church by the Apostles intention was the same before Parishes</hi> (in a Diocese) <hi>were di<g ref="char:EOLhyphen"/>vided, as it was afterward.</hi> Which all, who vnderstand the propertie of the <note n="*" place="margin">Ecclesia.</note> Greeke word, do know to bee false. For all au<g ref="char:EOLhyphen"/>thentike Greeke authors do shew that <hi>Ecclesia</hi> with them signified that which in Latin is <hi>Conci<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> populi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> that is,<note place="margin">Zuingl. Artic. 8. Explanat.</note> one particu<g ref="char:EOLhyphen"/>lar assembly of people, and in respect as they are assembled together in one place: but never in those times did it signifie a multitude dispersedly cōming togeather in many distinct ordinarie Meetings, and in farre remote places, as Provinciall and Diocesan Churches do. Now the Apostles spake as all authentike Grecians spake, &amp; namely as they commonly vsed to speak in those times. So that, vnles the Apo<g ref="char:EOLhyphen"/>stles words in their knowē proper sense, and their intention be contrarie (which to imagine is to absurd) there is no truth in the <hi>Doctors</hi> saying. His whole discourse beside, being fraught with disdainfull &amp; disgracefull reproches, such as become
+<pb n="33" facs="tcp:2982:17"/>rather a persecuter, then a Christian tea<g ref="char:EOLhyphen"/>cher of the truth, it deserveth wholy to be neglected, &amp; passed over with silence. But because hee seemeth to him selfe to be somebody, it will not be amisse if his windy and wordy writing bee answered in a severall proper place. Which busines I commit to the providence of God. As for the poinct of the cōtroversie heere in hande, that which I defend in this place, is easie to be further proved and declared by other reasons also: but for this time I will rest cōtent with these Seaven before delivered, beside that which<note n="“" place="margin">Reas. for 10. form. pag. 19.20.</note> heereto<g ref="char:EOLhyphen"/>fore I have alleadged to this purpose.</p>
+            <p>The substance of all this whole matter is knit vp in this one argument follow<g ref="char:EOLhyphen"/>ing.</p>
+            <p>
+               <hi>No Visible Church of Divine Institution in the New Testament is Provinciall or Diocesan.</hi>
+            </p>
+            <p>
+               <hi>Every true Visible Church of Christ is of Divine institution in the New Testament.</hi>
+            </p>
+            <p>
+               <hi>Therefore no true Visible Church of Christ is Provinci all or Diocesan.</hi>
+            </p>
+            <p>The <hi>Maior</hi> is proved pag. 20.21. &amp;c. The <hi>Minor</hi> is proved pag. 10.11.12. &amp;c. Where<g ref="char:EOLhyphen"/>fore the <hi>Conclusion</hi> remayneth sure.</p>
+            <p>Further, some thinke that I set downe a Contrarietie where I say,<note n="“" place="margin">Tractat. Page. 3.</note>
+               <hi>the Single and</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+               <hi>Compound</hi> formes of governement <hi>differ the one from the other by a Specificall &amp; Essentiall dif<g ref="char:EOLhyphen"/>ference:</hi> and "<hi>the one ceasseth necessarily when</hi>
+               <note n="'" place="margin">Page. 4.</note>
+               <hi>the other cometh in place.</hi> And yet (as they i<g ref="char:EOLhyphen"/>magine)
+<pb n="34" facs="tcp:2982:18"/>contrarie to this I say,<note n="7" place="margin">pag. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>the Church governement is mixt.</hi> How be it nevertheles, indeed these sentences do stand togeather &amp; agree right well. For the divers kindes of governement (as the Diocesan, and Pa<g ref="char:EOLhyphen"/>rochiall, that is, of onely one ordinarie Congregation; also the Monarchie, Ari<g ref="char:EOLhyphen"/>stocratie, and Democratie) may bee mixt <hi>in graduremisso</hi> in their state remisse and a<g ref="char:EOLhyphen"/>bated, but not <hi>in intenso gradis</hi> in their per<g ref="char:EOLhyphen"/>fect state: they may cōioyne in their Ac<g ref="char:EOLhyphen"/>cidents, but not Essentially, or in their distinct pure Essences. As the Direction of a Pastor, with the affistance of the Elders, and the peoples free consent in a Church may concurre and stand togeather: thus may the governement be mixed. But the peoples free consent cannot admit either a Diocesan nor yet Parochiall pure Mo<g ref="char:EOLhyphen"/>narchie, or absolute Aristocratie, thus they cannot be mixed. The one of these necessarily doth cease when the other co<g ref="char:EOLhyphen"/>meth in place: and these are those formes of governement of which I say heere, <hi>they differ</hi> truly <hi>the one from the other by a specificall &amp; essential differēce.</hi> If any sticke in the Epi<g ref="char:EOLhyphen"/>stle, where the Visible Churches Forme is said to be<note n="“" place="margin">Epist. pag. 11.12.</note>
+               <hi>the power of a Single and vncom<g ref="char:EOLhyphen"/>pounded spiritual politie.</hi> Let him cōsider that the reference there noted expresly sen<g ref="char:EOLhyphen"/>deth him to the second <hi>Explanation</hi> in the beginning of the Treatise, where (pag. 5.) it is declared that it ought to be <hi>with the
+<pb n="35" facs="tcp:2982:18"/>peoples free consent.</hi> Now in this the Forme is compleat and cleere. Howbeit yet wee speake not heere so exactly and curiously of the Visible Churches Forme, but that our meaning is only that it doth <hi>convenire Subiecto omni, soli, &amp; semper:</hi> that it is conver<g ref="char:EOLhyphen"/>tible with it, and inseparable from it, and nothing els. And that this is in deed so proper to the said Church, it is pro<g ref="char:EOLhyphen"/>ved in this same Treatise, Argu. 3. and 9. as before is noted. And in the <hi>Reasons</hi> for reformation,<note n="“" place="margin">Compared with pag. 26.27.28.</note> pag. 45, 46, 47, &amp;c. Now hence also it cometh, that where the Peo<g ref="char:EOLhyphen"/>ples free consent is orderly and constant<g ref="char:EOLhyphen"/>lie had, there the Church can not bee but<note n="“" place="margin">As in Arg. 9. in the Treat. &amp; above pag. 13.14.</note> only one ordinarie Congregation, and the governement is Single, or over one Congregation only. Where the absolute governement is Diocesan or larger, there that Church can not possibly be one ordi<g ref="char:EOLhyphen"/>narie Congregation only, nor can vse or<g ref="char:EOLhyphen"/>dinarilie the Peoples free consent: but it must of necessitie be either by one person alone, or by a few choise persons absolut vnder Christ over a whole Diocese, or further. So that it is plaine enough di<g ref="char:EOLhyphen"/>vers wayes, that these governements are indeed (as I said) essentially distinguished: and the fore-rehearsed sentences do well stand togeather, and agree easily.</p>
+            <p>Moreover the first <hi>Proposition</hi> of the first <milestone type="tcpmilestone" unit="unspecified" n="6"/> Argumēt is thought by some to be amisse: viz.<note n="“" place="margin">Treat. pa. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>Whatsoever [is] a Divine institution, the
+<pb n="36" facs="tcp:2982:19"/>same is perpetuall.</hi> But why should any doubt of this? They say, Because the Iewes high Priesthood was a Divine institution, also the Calling of the Apostles: and yet nei<g ref="char:EOLhyphen"/>ther is perpetuall. Wherevnto the answer is easie: viz. Neither of these cometh near the point in question. The wordes of the Proposition are, <hi>Whatsoever is:</hi> not, What<g ref="char:EOLhyphen"/>soever was, or hath ben <hi>a Divine institution.</hi> Wherefore I speake of Divine instituti<g ref="char:EOLhyphen"/>ons and ordināces which are now such at this present time, even in our dayes: not of such as were Divine heerctofore only, that is only in the time of the Jewes e<g ref="char:EOLhyphen"/>state, or of the Apostles, such as the in<g ref="char:EOLhyphen"/>stances are which be obiected. I speake not (I say) of any Leviticall or Apostolicall temporarie ordinances. Which to be my very meaning in this place, appeareth partly in the <hi>Minor</hi> Proposition of the said Argument, which of necessitie must bee taken so; and more fully straight after in handling the proofe of the said <hi>Minor.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Further it is excepted against,<note place="margin">Treat.</note> where I say,<note n="“" place="margin">Pag. 26.</note> This word <hi>Ecclesia</hi> or <hi>Kahal in Hebrew is no where found in any Author (one or other) to signifie a bench of Iusticers, or Senat of Magistrates. This cannot be shewed in any other place at all.</hi> But contrarie to this some alleadge that the <hi>Septuagint</hi> do translate <hi>Kahal</hi> in<note n="“" place="margin">Prov. 26.26.</note> one place <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>a Senat.</hi> I answer, it is not mate<g ref="char:EOLhyphen"/>riall to our maine purpose in this place how the Hebrew <hi>Kahal</hi> is once by the <hi>Sep<g ref="char:EOLhyphen"/>tuagint</hi>
+               <pb n="37" facs="tcp:2982:19"/>Translated, though I added this word, which I needed not. For all the matter indeed stādeth in the Greek word <hi>Ecclesia,</hi> which is the<note n="“" place="margin">Matth. 18.19</note> originall text. Now concerning this word, there is no excep<g ref="char:EOLhyphen"/>tion at all taken against that which heere I alleadge. No man findeth in any author (one or other) this word <hi>Ecclesia</hi> to signifie a Bench of Iusticers or Senate of Magi<g ref="char:EOLhyphen"/>strates: no, not once. As for that Hebrew word <hi>Kahal</hi> also, seeing (for ought that appeareth) it is translated <hi>Senat</hi> no where, but only this once: we are to suppose that thesame Authors (viz. the <hi>Septuagint</hi>) who translate it more then 100. times other<g ref="char:EOLhyphen"/>wise, do thinke the proper sense of this word not to be a <hi>Senat.</hi> And why it should not also be proper in the Hebrew transla<g ref="char:EOLhyphen"/>tion of <hi>Math.</hi> 18.17. there is no reason in the world. Againe the <hi>Septuagint</hi> them sel<g ref="char:EOLhyphen"/>ves are of no good authoritie for transla<g ref="char:EOLhyphen"/>tion. And learned men do iudge that (af<g ref="char:EOLhyphen"/>ter the five bookes of <hi>Moses</hi>) the translati<g ref="char:EOLhyphen"/>on bearing their name, is not theirs.<note place="margin">D. Field. of the Church.</note> How so ever, they are generally knowen for translation to be most wide, strange, and vnfit. Maister <hi>Hugh Broughton</hi>
+               <note n="“" place="margin">Against Dav. Farrar the Iew.</note> saieth of them, that all learned men for these 1300. yeares space do know the <hi>Septuagint</hi> tran<g ref="char:EOLhyphen"/>slators have <hi>infinite millions of faultes.</hi> Nei<g ref="char:EOLhyphen"/>ther do our <hi>English</hi> translations, nor <hi>Tre<g ref="char:EOLhyphen"/>mellius,</hi> nor <hi>Vatablus,</hi> nor the <hi>Inter<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>arie,</hi> nor <hi>Arias Montanus,</hi> nor <hi>Munster,</hi> nor any good
+<pb n="38" facs="tcp:2982:20"/>Translators (as far as I know) follow thē in this place of the <hi>Proverbes.</hi>
+               <note n="“" place="margin">Viz. Neither French, nor Dutch, nor Spanish, nor Italian.</note> So that name<g ref="char:EOLhyphen"/>lie here they seeme to be held of no sound writer, for Authors of any credit in this particular, howsoever they bee esteemed Otherwise.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> Againe, some mislike that (in the <hi>As<g ref="char:EOLhyphen"/>sumption</hi> of Argument 7.) the Ministeriall Church and Church-government are said to be <hi>Fundamentall pointes of religion,</hi> and <hi>a part of the foundation of Christian faith.</hi> But if men would consider things well, sure heere is no cause of mislike. Alwayes re<g ref="char:EOLhyphen"/>membring, that I do not take <hi>the foundation of faith</hi> heere in that sense as Christ him<g ref="char:EOLhyphen"/>selfe is held and acknowledged to bee the Foundation of our faith, 1. Cor. 3.11. He alone is that absolute Foundation. Nei<g ref="char:EOLhyphen"/>ther do I take it in that sense as the word of God is acknowledged to be the general foundatiō of faith, which only togeather with Christ (the author of it) our faith can rest on. But in that sense I take it as the Apostle vseth it in <hi>Hebr.</hi> 6.1.2. where manifestly he vseth this word <hi>Foundation</hi> to signifie certaine points of religion, and speciall Doctrines necessary to salvation ordinarily, and vnchangeable by men. He setteth downe in this place 6. of them: of which some are Inward, some Out<g ref="char:EOLhyphen"/>ward: Some requiring outward action &amp; practise, some speculation and beliefe on<g ref="char:EOLhyphen"/>ly. Among them that require outward
+<pb n="39" facs="tcp:2982:20"/>action and practise, he nameth <hi>Laying on of handes</hi> as one part of this foundatiō. Now this cannot be heere vnderstood with a<g ref="char:EOLhyphen"/>nie good colour, but for <hi>Calling to the Mini<g ref="char:EOLhyphen"/>sterie;</hi> as is shewed evidently in the Trea<g ref="char:EOLhyphen"/>tise. And Calling to the Ministerie, or the Making of Ministers is one maine part of Church-government. And of that na<g ref="char:EOLhyphen"/>ture as the Church government is, of the same is the Visible, or Ministeriall, or Po<g ref="char:EOLhyphen"/>liticall Church it selfe. As also, of that na<g ref="char:EOLhyphen"/>ture as a maine part of Church-governe<g ref="char:EOLhyphen"/>ment is, of the same is the whole. Where<g ref="char:EOLhyphen"/>vpon I reason thus: If<note n="“" place="margin">
+                  <hi>That is,</hi> Ma<g ref="char:EOLhyphen"/>king of Mini<g ref="char:EOLhyphen"/>sters <hi>ordinarily effected by</hi> lay<g ref="char:EOLhyphen"/>ing on of hands.</note>
+               <hi>Laying on of handes</hi> (which is one maine part of Church-go<g ref="char:EOLhyphen"/>vernement, <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>1</label> as before is shewed) be of the foundation, necessarie to salvation ordi<g ref="char:EOLhyphen"/>narily, and vnchangeable by men, thē the Church-government, and the Church it selfe is so. But the former is certain by the text <hi>Heb.</hi> 6.2. as before I have shewed. Therfore the later is certain also, viz. the Ministeriall Church &amp; Church governe<g ref="char:EOLhyphen"/>ment are of the foūdation of faith, ot fū<g ref="char:EOLhyphen"/>damentall pointes of religion, they are necessarie to salvation ordinarily, and vn<g ref="char:EOLhyphen"/>changeable by men. Secondly, as <hi>Baptism<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>2</label> is heere called also <hi>fundamentall,</hi> so is this <hi>Laying on of handes,</hi> or Calling to the Mini<g ref="char:EOLhyphen"/>sterie. But heerein is meant no more (tou<g ref="char:EOLhyphen"/>ching Baptisme) save that it is a meanes to salvation necessarie ordinarily, and simply vnchangeable by men. Wherefore
+<pb n="40" facs="tcp:2982:21"/>even so is Calling to the Ministerie vn<g ref="char:EOLhyphen"/>derstood to be, where in the Treatise it is <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>3</label> called <hi>Fundamentall.</hi> Thirdly, I take it, no well advised Christian will deny Christes true Visible and Ministerial Church to be fundamentall. Of which, <hi>Cyprians</hi> saying is approved by all men,<note n="“" place="margin">Cypr. de vni<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at. Eccles.</note> viz. <hi>Deum non habet Patrem, qui Ecclesiam non habet <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atrem:</hi> Hee hath not God for his Father, who hath not the Church for his mother. And like<g ref="char:EOLhyphen"/>wise is that cōmon saying; <hi>Extra Ecclesiam non est salus:</hi> Out of the Church there is no salvation. Both which sayings are true of Christes Visible and Ministeriall Church: howbeit not simply, but ordinarilie. Yea they signifie also, that this ordinarie way and meanes to salvation, (viz. the Visible Church) appointed by God is vnchangea<g ref="char:EOLhyphen"/>ble by men. This sense of <hi>foundation</hi> is givē to Christes true Visible Church, I suppose by all well advised Christians.</p>
+            <p>Fourthly, that is a fundamentall point <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>4</label> which toucheth Christ (the absolute foū<g ref="char:EOLhyphen"/>dation) in some of his maine Offices im<g ref="char:EOLhyphen"/>mediatly, or (at least) by a sure and plaine cōsequence. But Christes Visible Church and governemēt doth immediatly touch him in his <hi>Kingly</hi> Office and in his <hi>Prophe<g ref="char:EOLhyphen"/>ticall</hi> Office also. As is shewed at full in <hi>Arg.</hi> 3. in the Treatise; yea in every <hi>Argu<g ref="char:EOLhyphen"/>ment</hi> there by a most certain Cōsequence. Most directly in the 4.6.10.17.18.19.23.24.25.26.28.30.31. And in <hi>Reas. for reform.</hi>
+               <pb n="41" facs="tcp:2982:21"/>pag. 52. 53. 54. Wherefore Christes Visible Church and Governement are to bee ac<g ref="char:EOLhyphen"/>knowledged <hi>fundamentall</hi> pointes in reli<g ref="char:EOLhyphen"/>gion. Fiftly, let vs heere consider how we do iudge of the <hi>Papistes</hi> touching this <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>5</label> matter, viz. touching Fundamentall er<g ref="char:EOLhyphen"/>rors. We all holde (and iustly) that cer<g ref="char:EOLhyphen"/>tain Popish errors are Fundamentall, and against every one of Christes maine Offi<g ref="char:EOLhyphen"/>ces. Among which, their error about the Visible Church and governement there<g ref="char:EOLhyphen"/>of is against Christes Kingdome. Where<g ref="char:EOLhyphen"/>fore hence it followeth that Christes Vi<g ref="char:EOLhyphen"/>sible Church and Governement is a fun<g ref="char:EOLhyphen"/>damentall point in religion: seeing their error which they holde in that matter is a fundamentall error, as wee all acknow<g ref="char:EOLhyphen"/>ledge. Sixtly, the learned writers<note n="“" place="margin">Beza confes 5.7. P. Mart. in 1. Cor. 1.2. Viret. Dial. 14. &amp; 21. at the end. T. C. Reply 2. pag. 53. D. Field of the Church. 2.6. D. Down. Def. b. 2. pag. 6. The Confess. of faith in the end of the book of com. prayer.</note> do <label type="milestone">
+                  <seg type="milestoneunit">Reason </seg>6</label> set downe three Essentiall (at least, perpe<g ref="char:EOLhyphen"/>tuall and necessarie) notes of a Visible Church, viz. <hi>the Word, Sacraments,</hi> and <hi>Go<g ref="char:EOLhyphen"/>vernement.</hi> Vnderstand, that by this heere is meant <hi>the power</hi> to administer these things, as I have noted before pa. 7. Now if Governement thus be Essentiall to the Church, it may be also called fundamen<g ref="char:EOLhyphen"/>tall without question.</p>
+            <p>Where still I desire it may bee remem<g ref="char:EOLhyphen"/>bred, that by this our interpretation of <hi>Laying on of handes in Hebr.</hi> 6.2. <hi>to be fundamen<g ref="char:EOLhyphen"/>tall,</hi> our whole meaning and intent is to shewe this only, that the Nature of Chri<g ref="char:EOLhyphen"/>stes Visible Church and Governement is
+<pb n="42" facs="tcp:2982:22"/>vnchangeable by men: and that after the constant &amp; perpetuall ordinance of God, salvation through Christ cometh vnto vs ordinarily alwayes by meanes of this true Visible Church &amp; Ministerie of the word therein. According to that,<note n="“" place="margin">
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 10.17</note>
+               <hi>Faith is by hearing, and hearing by the preaching of Gods word by Ministers</hi> orderly <hi>sent</hi> (that is) according to his rule. Which doctrine all sound Di<g ref="char:EOLhyphen"/>vines do teach in like sort.</p>
+            <p>Heere vnto I will adde Mai. <hi>Cartwrights</hi> iudgement, who maintaineth this ear<g ref="char:EOLhyphen"/>nestly, that<note n="*" place="margin">Y. C. repl. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pag. 26.</note>
+               <hi>Matters of Discipline and kinde of Governement are matters necessarie to salvation, and of faith.</hi>
+            </p>
+            <p>If any doubt whether I think a mā may bee saved that erreth about the Visible Churches particular forme and Governe<g ref="char:EOLhyphen"/>ment. I answere, I thinke such a man may be saved. In what regard, and how, I have formerly set downe in those <hi>Reasons for re<g ref="char:EOLhyphen"/>form.</hi> pag. 55.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> Lastly, the <hi>Argument</hi> 16. in the Treatise is excepted against. Where indeed I deny not, but the maner of gathering that <hi>Ar<g ref="char:EOLhyphen"/>gument</hi> is scarce as it should be: the Enu<g ref="char:EOLhyphen"/>meration there vsed might be somewhat more full. Howbeit that text of Scrip<g ref="char:EOLhyphen"/>ture 1. <hi>Cor.</hi> 15.24. (which is the ground of the <hi>Argument</hi>) will very well yeeld the Conclusion, so that it bee gathered and framed in such maner as now heere it is set downe. Wherefore I pray the Reader
+<pb n="43" facs="tcp:2982:22"/>to conceave it thus:</p>
+            <p>
+               <q>Where Christes whole <hi>Oeconomicall King<g ref="char:EOLhyphen"/>dome</hi> is signified,<note place="margin">Argu. 16. in the Treatise.</note> there also the Outward Ecclesiastical administration &amp; governe<g ref="char:EOLhyphen"/>ment, or the State of the Visible Church is indefinitly &amp; generally fignified. And againe, it followeth from hence that also there in the same text the Outward Ec<g ref="char:EOLhyphen"/>clesiastical Governement and State of the Visible Church vnder the Gospell in spe<g ref="char:EOLhyphen"/>ciall is signified. And withall there is sig<g ref="char:EOLhyphen"/>nified that this same Outward Ecclesiasti<g ref="char:EOLhyphen"/>call Governement and State of the Visi<g ref="char:EOLhyphen"/>ble Church vnder the Gospell is truly &amp; in deed Christes Kingdome. And like<g ref="char:EOLhyphen"/>wise, that hee himselfe is the only Au<g ref="char:EOLhyphen"/>thor, and Framer, yea the only Lord, King, and Law-giver thereof to the worldes end. For who can be Author and Law-giver of his owne kingdom but on<g ref="char:EOLhyphen"/>ly himselfe?</q>
+            </p>
+            <p>
+               <q>In 1. <hi>Cor.</hi> 15.24. Christes whole <hi>Oecono<g ref="char:EOLhyphen"/>micall Kingdome</hi> is signified.</q>
+            </p>
+            <p>
+               <q>Therefore in 1. <hi>Cor.</hi> 15.24. the Outward Ecclesiasticall administration &amp; governe<g ref="char:EOLhyphen"/>ment, or the State of the Visible Church (yea that vnder the Gospell) is also signi<g ref="char:EOLhyphen"/>fied. And againe from 1. <hi>Corinth.</hi> 15.24. in such respect it followeth necessarily, that the Outward Ecclesiastical Governement and State of the Visible Church vnder the Gospell is truly and in deed <hi>Christes King<g ref="char:EOLhyphen"/>dome.</hi> And likewise, that hee himselfe is
+<pb n="45" facs="tcp:2982:23"/>the only Author, and Framer, yea the on<g ref="char:EOLhyphen"/>ly Lord, King, and Law-giver thereof to the worldes end.</q>
+            </p>
+            <p>The Assumption heere is most evi<g ref="char:EOLhyphen"/>dently true. Considering that by Christes <hi>Oeconomicall Kingdome</hi> we meane (and so the Interpreters do call it and vnderstand it to be) all that-power and rule which as Mediator and Head of his Church he re<g ref="char:EOLhyphen"/>ceaved<note n="“" place="margin">Mat. 28.18.</note> of the Father, and administred ever since (by him selfe and his servants) till the worldes end, but no longer. This sense the present text (1. <hi>Cor.</hi> 15.24.) will well beare being taken in the largest ma<g ref="char:EOLhyphen"/>ner that the Circumstances do admit. And every text alwayes must be taken in such most large sense.</p>
+            <p>The Consequence of the Proposition standeth on foure partes. And I see not how any one of them can possibly be de<g ref="char:EOLhyphen"/>nied. If any should, it will easily be pro<g ref="char:EOLhyphen"/>ved.</p>
+            <p>Thus, though our former <hi>Argument</hi> 16. in the Treatise for the manner of gathe<g ref="char:EOLhyphen"/>ring, bee not (I grant) altogeather so well as it should bee, yet the Text it selfe 1. <hi>Cor.</hi> 15.24. doth still affoorde a good and found Argument for our maine purpose, as is said. And thus in effect heere is no<g ref="char:EOLhyphen"/>thing lost. And so much for answer to these 9. Exceptions.</p>
+            <pb n="45" facs="tcp:2982:23"/>
+            <p>
+               <hi>Hitherto (my deare and loving friend) I have waded labouring to give satisfacti<g ref="char:EOLhyphen"/>on to all good people (according as it may come to their notice) so farre as my consci<g ref="char:EOLhyphen"/>ence with warrant of the truth will permit. Humbly desiring all loving and vpright harted Christians to interpret this same, togeather with what soever J have heere<g ref="char:EOLhyphen"/>tofore written, as only and meerely the ef<g ref="char:EOLhyphen"/>fectes of cōscience in me, agreeing (so neare as I could discerne) to my dutie inioyned me in Gods word. The grace, mercy, and love of God in Iesus Christ be with vs all. Amen.</hi> Middleborough. <hi>the</hi> 4. <hi>of Sep<g ref="char:EOLhyphen"/>tember. Anno</hi> 1611.</p>
+            <closer>
+               <signed>HENRY IACOB.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
